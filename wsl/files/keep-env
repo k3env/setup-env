@@ -1,0 +1,3 @@
+Defaults        env_keep += "WSLENV"
+Defaults        env_keep += "WSL_DISTRO_NAME"
+Defaults        env_keep += "WSL_INTEROP"
